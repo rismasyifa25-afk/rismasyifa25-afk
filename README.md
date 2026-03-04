@@ -11,7 +11,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true&area_color=61dafb&custom_title=Ryoukou%20Contribution%20Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true&area_color=61dafb&custom_title=Syifa%20Contribution%20Graph" 
     width="100%" 
   />
 </p>
