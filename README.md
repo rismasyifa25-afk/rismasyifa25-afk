@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,php,js,mysql,github,vscode,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,php,js,mysql,github,vscode,html,css,tailwind" />
 </p>
 
 
